@@ -1,6 +1,7 @@
 import subprocess
 import sys
 subprocess.check_call([sys.executable, "-m", "pip", "install", 'plotly'])
+subprocess.check_call([sys.executable, "-m", "pip", "install", 'sklearn'])
 
 import pandas as pd
 import streamlit as st
