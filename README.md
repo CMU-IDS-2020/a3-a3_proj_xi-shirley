@@ -1,7 +1,7 @@
 # CMU Interactive Data Science Assigment 3
 
-* **Team members**: Xi Chen and Shengli Zhu
-* **Online URL**: https://s4a.streamlit.io/cmu-ids-2020/a3-template/master/streamlit_app.py/+/
+* **Team members**: Xi Chen (xc3) and Shengli Zhu (shengliz)
+* **Online URL**: https://share.streamlit.io/cmu-ids-2020/a3-a3_proj_xi-shirley
 
 ## Instructions
 
