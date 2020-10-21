@@ -1,3 +1,7 @@
+import subprocess
+import sys
+subprocess.check_call([sys.executable, "-m", "pip", "install", 'plotly'])
+
 import pandas as pd
 import streamlit as st
 import plotly.express as px
